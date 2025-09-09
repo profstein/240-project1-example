@@ -13,6 +13,7 @@ html{
 font-family: "Josefin Sans", sans-serif;
 font-size: 20px;
 line-height: 1.6;
+
 }
 
 body{
@@ -35,7 +36,7 @@ h1{
   /*   this is the page title */
   font-family: "Sacramento", cursive;
   font-weight: 400;
-  font-size: 4rem;
+  font-size: 4.2rem;
 }
 
 h2{
